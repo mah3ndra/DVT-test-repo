@@ -1,5 +1,7 @@
 # Data Validation Tool (Beta)
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=mah3ndra_DVT-test-repo&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=mah3ndra_DVT-test-repo)
+
 The Data Validation Tool (Beta) is an open sourced Python CLI tool based on the
 [Ibis framework](https://ibis-project.org/docs/tutorial/01-Introduction-to-Ibis.html)
 that compares heterogeneous data source tables with multi-leveled validation
